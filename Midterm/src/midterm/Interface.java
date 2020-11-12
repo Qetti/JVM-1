@@ -1,5 +1,7 @@
 package midterm;
 
-public interface Interfase {
-    
+public interface Interface {
+    void firstMethod();
+    void secondMethod();
+    int thirdMethod();
 }
